@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Bat-Sinal",
+    "slug": "bat-signal-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/batsignal.png",
+    "splash": {
+      "image": "./src/assets/batsignal.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000"
+    },
+    "platforms": ["ios", "android", "web"]
+  }
+}
